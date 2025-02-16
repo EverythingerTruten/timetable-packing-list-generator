@@ -1,0 +1,13 @@
+ _______                    ___                                                     
+|_   __ \                 .' ..]                                                    
+  | |__) |_ .--.  .---.  _| |_  .---.  _ .--.  .---.  _ .--.   .---.  .---.  .--.   
+  |  ___/[ `/'`\]/ /__\\'-| |-'/ /__\\[ `/'`\]/ /__\\[ `.-. | / /'`\]/ /__\\( (`\]  
+ _| |_    | |    | \__.,  | |  | \__., | |    | \__., | | | | | \__. | \__., `'.'.  
+|_____|  [___]    '.__.' [___]  '.__.'[___]    '.__.'[___||__]'.___.' '.__.'[\__) ) 
+                                                                                    
+
+Ignored classes (Add classes that you don't want to show up on your packing instructions here seperated by commas):
+PUT CLASSES HERE
+
+Left in school (Add a class that you leave in school and when taking out you want it to show up on the day you had it, not the day after)
+PUT CLASS HERE
